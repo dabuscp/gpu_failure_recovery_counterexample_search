@@ -1,0 +1,2 @@
+# consistency_counterexample_search_11baf0ae
+（AIGC场景）GPU 故障与作业自愈与下游任务表现的分数能否预测下游表现？用口径一致性比对量化预测力，并列出反例。
